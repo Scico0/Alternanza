@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Alternanza", "http://localhost:8112", "{F7D4B6A8-5CC7-4105-9942-42B88820F9EA}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
